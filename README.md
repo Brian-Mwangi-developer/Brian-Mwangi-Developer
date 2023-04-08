@@ -1,5 +1,5 @@
 ### Brian Mwangi says Hi 👋 😁
-#### Javascript and ReactJs
+
 <!--
 **Brian-Mwangi-developer/Brian-Mwangi-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
