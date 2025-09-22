@@ -14,4 +14,3 @@ Find me on [LinkedIn](https://www.linkedin.com/in/brian-mwangi-developer/) • [
 
 > “Build where you’re needed, not just where it’s trendy.”
 
-![](https://komarev.com/ghpvc/?username=Brian-Mwangi-developer)
