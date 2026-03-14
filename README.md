@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Brian Mwangi
 
 I’m a developer passionate about solving real-world problems through machine learning, language technology, and developer tools. My work revolves around building solutions that empower underrepresented communities — especially in Africa — through open-source projects, AI, and software infrastructure.
+#### Currently Working on Agents and there useCase for Economic value, Check it out:  [Melduo](https://www.melduo.com)
 
 ---
 
