@@ -9,7 +9,7 @@ I’m a developer passionate about solving real-world problems through machine l
 ## 📫 Let's Connect
 
 I love collaborating with builders and researchers working on AI for good, especially in linguistics, developer tools, and education.  
-Find me on [LinkedIn](https://www.linkedin.com/in/brian-mwangi-developer/) • [HuggingFace](https://huggingface.co/BrianMwangi) • [NPM](https://www.npmjs.com/package/vcon-library)
+Find me on [LinkedIn](https://www.linkedin.com/in/brian-mwangi-developer/) • [HuggingFace](https://huggingface.co/BrianMwangi) • [NPM]([https://www.npmjs.com/package/vcon-library](https://www.npmjs.com/~brianmwangidev))
 
 ---
 
